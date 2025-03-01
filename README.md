@@ -4,8 +4,8 @@ Project Structure & Where to Save Code
 📁 Age-Detection-Project (Root folder)
    📂 backend → Save Node.js API & Model files here
    📂 frontend → Save React frontend here
-   📂 model → Save CNN model training files here (optional)
-   📂 dataset → Save training dataset here (optional)
+   📂 model → Save CNN model training files here
+   📂 dataset → Save the training dataset here ( ! First, you have to make a sub-folder named 'dataset' in your project folder )
 
 - Step-0: run pip install -r requirements.txt
 
